@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="vertical-align: middle;" />
 </a>
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
       <h3>🛠 My Tech Stack</h3>
@@ -35,7 +35,7 @@
     <td valign="top" width="50%">
       <h3>📊 Language Stats</h3>
       <div align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linnene&layout=compact&bg_color=1c1c1c&title_color=ffffff&text_color=cccccc&border_color=444444&hide_border=false&hide_title=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linnene&layout=compact&bg_color=f5f5f5&title_color=333333&text_color=555555&border_color=e4e4e4&hide_border=false&hide_title=true" alt="Top Languages" />
       </div>
     </td>
   </tr>
@@ -44,13 +44,13 @@
 ### Currently Working On
 <p align="left">
   <a href="https://github.com/linnene/geotrave">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linnene&repo=geotrave&bg_color=1c1c1c&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=444444&show_owner=true" alt="geotrave project card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linnene&repo=geotrave&bg_color=f5f5f5&title_color=333333&text_color=555555&icon_color=333333&border_color=e4e4e4&show_owner=true" alt="geotrave project card" />
   </a>
   <a href="https://github.com/linnene/Code-Standards-Skills">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linnene&repo=Code-Standards-Skills&bg_color=1c1c1c&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=444444&show_owner=true" alt="Code-Standards-Skills project card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linnene&repo=Code-Standards-Skills&bg_color=f5f5f5&title_color=333333&text_color=555555&icon_color=333333&border_color=e4e4e4&show_owner=true" alt="Code-Standards-Skills project card" />
   </a>
   <a href="https://github.com/linnene/Neuro-sama">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linnene&repo=Neuro-sama&bg_color=1c1c1c&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=444444&show_owner=true" alt="Neuro-sama project card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linnene&repo=Neuro-sama&bg_color=f5f5f5&title_color=333333&text_color=555555&icon_color=333333&border_color=e4e4e4&show_owner=true" alt="Neuro-sama project card" />
   </a>
 </p>
 
