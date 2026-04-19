@@ -8,12 +8,14 @@
 
 ### About Me
 
-- CQU在读大三的一名苦逼程序员
+- CQU在读大三的一名**苦逼程序员**
 - 我希望我的努力能够切身解决大家遇到的问题
 - 如果你对我的工作感兴趣，并且想要一起为这个项目做贡献，或者你有对我开发上的建议，请联系我
 <a href="mailto:teadark@qq.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="vertical-align: middle;" />
 </a>
+
+---
 
 <table width="100%">
   <tr>
@@ -41,6 +43,14 @@
   </tr>
 </table>
 
+###  My Contribution
+<!-- 这里的 svg 动画将由 GitHub Actions 自动生成并推送到 output 分支 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linnene/linnene/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/linnene/linnene/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/linnene/linnene/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### Currently Working On
 <p align="left">
   <a href="https://github.com/linnene/geotrave">
@@ -57,13 +67,6 @@
 <br/>
 
 
-###  My Contribution
-<!-- 这里的 svg 动画将由 GitHub Actions 自动生成并推送到 output 分支 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linnene/linnene/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/linnene/linnene/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/linnene/linnene/output/github-contribution-grid-snake.svg">
-</picture>
 
 <!--
 **linnene/linnene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
