@@ -62,6 +62,9 @@
   <a href="https://github.com/linnene/Neuro-sama">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=linnene&repo=Neuro-sama&bg_color=f5f5f5&title_color=333333&text_color=555555&icon_color=333333&border_color=e4e4e4&show_owner=true" alt="Neuro-sama project card" />
   </a>
+  <a href="https://github.com/linnene/claude-island">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linnene&repo=claude-island&bg_color=f5f5f5&title_color=333333&text_color=555555&icon_color=333333&border_color=e4e4e4&show_owner=true" alt="claude-island project card" />
+  </a>
 </p>
 
 <br/>
