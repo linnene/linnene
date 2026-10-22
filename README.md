@@ -12,6 +12,10 @@ Exploring embodied intelligence, multi-agent world models, and collaborative dec
   <a href="https://www.teadark.online/"><img src="https://img.shields.io/badge/Website-teadark.online-555?style=flat-square&logo=safari&logoColor=white" alt="Personal website" /></a>
 </p>
 
+<img src="./assets/marl-team-loop.svg" width="100%" alt="Three colorful robots collect coins, activate a bridge together, and celebrate a flying matcha cake." />
+
+<p align="center"><em>Learning how multiple agents divide roles, coordinate decisions, and complete a shared task.</em></p>
+
 ## Current focus
 
 I am currently reproducing **CoDreamer**, a communication-based decentralised world model built on DreamerV3. My immediate goal is to establish a credible and auditable baseline before introducing controlled communication degradation and analysing where multi-agent coordination fails.
