@@ -118,7 +118,7 @@ const dust=Object.entries(tracks).flatMap(([id,{list}])=>list.filter(a=>a.height
 const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
 <title id="title">A little teamwork goes a long way</title><desc id="desc">Three colorful square robots collect coins, cooperate on two bridge switches, cross a river, and celebrate a flying matcha cake. Scripted illustration, not a trained policy rollout.</desc>
 <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#dce5ee" stroke-width=".7"/></pattern><pattern id="stone" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M0 9L9 0" stroke="#c8d0d8" stroke-width=".7"/></pattern></defs>
-<rect width="1200" height="320" rx="12" fill="#fff"/><rect x="20" y="20" width="1160" height="280" rx="5" fill="url(#grid)" stroke="#bcc7d1" stroke-width="1.5"/>
+<rect width="1200" height="320" fill="#fff"/><rect x="20" y="20" width="1160" height="280" fill="url(#grid)"/>
 <g fill="#f1f4f6" stroke="#b9c4ce" stroke-width="1.3"><path d="M20 20H180V60H140V100H100V140H20Z"/><path d="M340 20H420V60H340Z"/><path d="M860 20H1020V60H980V100H940V60H860Z"/></g>
 <g fill="url(#stone)"><path d="M20 20H180V60H140V100H100V140H20Z"/><path d="M340 20H420V60H340Z"/><path d="M860 20H1020V60H980V100H940V60H860Z"/></g>
 <path d="M20 260H240V220H280V180H320V140H520V180H540V300H20Z" fill="#95756a"/>

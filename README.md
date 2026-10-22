@@ -1,3 +1,7 @@
+<img src="./assets/marl-team-loop.svg" width="100%" alt="Three colorful robots collect coins, activate a bridge together, and celebrate a flying matcha cake." />
+
+<p align="center"><em>Learning how multiple agents divide roles, coordinate decisions, and complete a shared task.</em></p>
+
 # Hi, I'm Linnene 👋
 
 <img align="right" src="https://github.com/linnene.png" width="144" alt="Linnene's avatar" />
@@ -11,10 +15,6 @@ Exploring embodied intelligence, multi-agent world models, and collaborative dec
   <a href="mailto:teadark@qq.com"><img src="https://img.shields.io/badge/Email-teadark%40qq.com-555?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.teadark.online/"><img src="https://img.shields.io/badge/Website-teadark.online-555?style=flat-square&logo=safari&logoColor=white" alt="Personal website" /></a>
 </p>
-
-<img src="./assets/marl-team-loop.svg" width="100%" alt="Three colorful robots collect coins, activate a bridge together, and celebrate a flying matcha cake." />
-
-<p align="center"><em>Learning how multiple agents divide roles, coordinate decisions, and complete a shared task.</em></p>
 
 ## Current focus
 
