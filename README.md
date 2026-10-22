@@ -27,6 +27,14 @@ I am currently reproducing **CoDreamer**, a communication-based decentralised wo
 - World models and model-based decision-making
 - Communication and teammate modelling under uncertainty
 
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linnene/linnene/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/linnene/linnene/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid animation" src="https://raw.githubusercontent.com/linnene/linnene/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## Selected work
 
 | Project | What it is |
@@ -49,14 +57,6 @@ These experiences are being consolidated into reproducible projects, documented 
 **Languages:** Python · TypeScript · Swift · Go<br>
 **Engineering:** Git · Docker · LangGraph<br>
 **Currently learning through research:** world models · model-based RL · multi-agent learning
-
-## GitHub activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linnene/linnene/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/linnene/linnene/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid animation" src="https://raw.githubusercontent.com/linnene/linnene/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
